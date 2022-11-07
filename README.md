@@ -4,6 +4,10 @@ This is a playground of the combination of two great books,
 [Learning React] by [Alex Banks] and [Eve Porcello] and
 [Learning TypeScript] by [Josh Goldberg].
 
+## Apps
+
+- [Project Portfolio](portfolio/src/index.tsx)
+
 Happy Hacking!
 
 [learning react]: https://github.com/MoonHighway/learning-react
